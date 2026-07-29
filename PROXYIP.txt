@@ -1,9 +1,2 @@
-galaxy-tunnel-01.cloudflareaccess.com 
-
-galaxytunnel.cloudflareaccess.com 
-
-iceisland.cloudflareaccess.com 
-
-galaxy-tunnel.cloudflareaccess.com 
-
-galaxytunnel.cloudflareaccess.com
+ cdn.xn--b6gac.eu.org 
+ cdn-b100.xn--b6gac.eu.org 
