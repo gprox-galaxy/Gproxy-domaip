@@ -1,8 +1,9 @@
-sg.vless.bid
-sg1.vless.bid
-sg2.vless.bid
-jp.vless.bid
-jp1.vless.bid
-hk.vless.bid
-us.vless.bid
-de.vless.bid
+galaxy-tunnel-01.cloudflareaccess.com 
+
+galaxytunnel.cloudflareaccess.com 
+
+iceisland.cloudflareaccess.com 
+
+galaxy-tunnel.cloudflareaccess.com 
+
+galaxytunnel.cloudflareaccess.com
