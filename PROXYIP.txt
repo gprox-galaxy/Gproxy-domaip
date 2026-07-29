@@ -1,7 +1,7 @@
  cdn.xn--b6gac.eu.org 
- cdn-b100.xn--b6gac.eu.org 
- 104.28.1.10  
-cdn-all.xn--b6gac.eu.org
+ cdn-b100.xn--b6gac.eu.org
+104.28.1.10
+.cdn-all.xn--b6gac.eu.org
 # IPv6 (Hetzner — Clean)
 2a01:4f8:c2c:123f:64:5:ac40:6c0a
 2a01:4f8:c2c:123f:64:5:ac40:6d0a
